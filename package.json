@@ -1,0 +1,12 @@
+{
+  "name": "timestamp-microservice",
+  "private": true,
+  "version": "0.0.1",
+  "description": "timestamp microservice",
+  "main": "app.js",
+  "scripts": {},
+  "author": "marzelin@gmail.com",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
